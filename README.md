@@ -13,3 +13,7 @@
 Для сборки проекта используются
 - библиотеки Unigine
 - библиотека MySQL для C++ 
+
+
+
+Описание в docx: https://docs.google.com/document/d/1xIDepiSSywOWozmB9sSgLJCNSbm8KhNe/edit?usp=drive_link&ouid=115623576295869216902&rtpof=true&sd=true
